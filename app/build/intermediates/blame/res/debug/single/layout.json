@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/andrew/Desktop/Source Code/app/build/intermediates/res/merged/debug/layout/list_item_scan.xml",
+        "source": "/Users/andrew/Desktop/Source Code/app/src/main/res/layout/list_item_scan.xml"
+    },
+    {
+        "merged": "/Users/andrew/Desktop/Source Code/app/build/intermediates/res/merged/debug/layout/dialog_scan_device.xml",
+        "source": "/Users/andrew/Desktop/Source Code/app/src/main/res/layout/dialog_scan_device.xml"
+    },
+    {
+        "merged": "/Users/andrew/Desktop/Source Code/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/andrew/Desktop/Source Code/app/src/main/res/layout/activity_main.xml"
+    }
+]

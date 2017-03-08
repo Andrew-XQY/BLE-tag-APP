@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/andrew/Desktop/Source Code/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/andrew/Desktop/Source Code/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrew/Desktop/Source Code/app/build/intermediates/res/merged/debug/drawable-hdpi/bg_devicelist.png",
+        "source": "/Users/andrew/Desktop/Source Code/app/src/main/res/drawable-hdpi/bg_devicelist.png"
+    }
+]

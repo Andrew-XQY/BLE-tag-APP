@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/andrew/Desktop/Source Code/app/src/main/res"/><source path="/Users/andrew/Desktop/Source Code/app/build/generated/res/rs/debug"/><source path="/Users/andrew/Desktop/Source Code/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/andrew/Desktop/Source Code/app/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/andrew/Desktop/Source Code/app/src/main/res"><file name="bg_devicelist" path="/Users/andrew/Desktop/Source Code/app/src/main/res/drawable-hdpi/bg_devicelist.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/andrew/Desktop/Source Code/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/andrew/Desktop/Source Code/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/andrew/Desktop/Source Code/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/andrew/Desktop/Source Code/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="/Users/andrew/Desktop/Source Code/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="dialog_scan_device" path="/Users/andrew/Desktop/Source Code/app/src/main/res/layout/dialog_scan_device.xml" qualifiers="" type="layout"/><file name="list_item_scan" path="/Users/andrew/Desktop/Source Code/app/src/main/res/layout/list_item_scan.xml" qualifiers="" type="layout"/><file name="anti_theft" path="/Users/andrew/Desktop/Source Code/app/src/main/res/raw/anti_theft.mp3" qualifiers="" type="raw"/><file name="beep" path="/Users/andrew/Desktop/Source Code/app/src/main/res/raw/beep.ogg" qualifiers="" type="raw"/><file name="bird" path="/Users/andrew/Desktop/Source Code/app/src/main/res/raw/bird.ogg" qualifiers="" type="raw"/><file name="cat" path="/Users/andrew/Desktop/Source Code/app/src/main/res/raw/cat.mp3" qualifiers="" type="raw"/><file name="dog" path="/Users/andrew/Desktop/Source Code/app/src/main/res/raw/dog.ogg" qualifiers="" type="raw"/><file name="pao" path="/Users/andrew/Desktop/Source Code/app/src/main/res/raw/pao.ogg" qualifiers="" type="raw"/><file path="/Users/andrew/Desktop/Source Code/app/src/main/res/values/strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="app_name">BLEDemo</string></file><file path="/Users/andrew/Desktop/Source Code/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="MyDialog" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">false</item>
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+        <item name="android:backgroundDimEnabled">true</item>
+        
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file></source><source path="/Users/andrew/Desktop/Source Code/app/build/generated/res/rs/debug"/><source path="/Users/andrew/Desktop/Source Code/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/andrew/Desktop/Source Code/app/src/debug/res"/></dataSet><mergedItems/></merger>

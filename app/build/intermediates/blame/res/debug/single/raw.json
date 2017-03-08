@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/andrew/Desktop/Source Code/app/build/intermediates/res/merged/debug/raw/pao.ogg",
+        "source": "/Users/andrew/Desktop/Source Code/app/src/main/res/raw/pao.ogg"
+    },
+    {
+        "merged": "/Users/andrew/Desktop/Source Code/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/andrew/Desktop/Source Code/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/andrew/Desktop/Source Code/app/build/intermediates/res/merged/debug/raw/cat.mp3",
+        "source": "/Users/andrew/Desktop/Source Code/app/src/main/res/raw/cat.mp3"
+    },
+    {
+        "merged": "/Users/andrew/Desktop/Source Code/app/build/intermediates/res/merged/debug/raw/dog.ogg",
+        "source": "/Users/andrew/Desktop/Source Code/app/src/main/res/raw/dog.ogg"
+    },
+    {
+        "merged": "/Users/andrew/Desktop/Source Code/app/build/intermediates/res/merged/debug/raw/anti_theft.mp3",
+        "source": "/Users/andrew/Desktop/Source Code/app/src/main/res/raw/anti_theft.mp3"
+    },
+    {
+        "merged": "/Users/andrew/Desktop/Source Code/app/build/intermediates/res/merged/debug/raw/bird.ogg",
+        "source": "/Users/andrew/Desktop/Source Code/app/src/main/res/raw/bird.ogg"
+    }
+]
